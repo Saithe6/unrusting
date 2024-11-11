@@ -1,0 +1,13 @@
+{
+  "type":"create:sandpaper_polishing",
+  "ingredients":[
+    {
+      "item":"magistuarmory:rustednorman_helmet"
+    }
+  ],
+  "results":[
+    {
+      "item":"magistuarmory:norman_helmet"
+    }
+  ]
+}

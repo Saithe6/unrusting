@@ -1,0 +1,13 @@
+{
+  "type":"create:sandpaper_polishing",
+  "ingredients":[
+    {
+      "item":"magistuarmory:rustedchainmail_helmet"
+    }
+  ],
+  "results":[
+    {
+      "item":"magistuarmory:chainmail_helmet"
+    }
+  ]
+}

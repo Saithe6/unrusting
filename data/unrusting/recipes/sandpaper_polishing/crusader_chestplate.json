@@ -1,0 +1,13 @@
+{
+  "type":"create:sandpaper_polishing",
+  "ingredients":[
+    {
+      "item":"magistuarmory:rustedcrusader_chestplate"
+    }
+  ],
+  "results":[
+    {
+      "item":"magistuarmory:crusader_chestplate"
+    }
+  ]
+}

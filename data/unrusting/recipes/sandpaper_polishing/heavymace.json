@@ -1,0 +1,13 @@
+{
+  "type":"create:sandpaper_polishing",
+  "ingredients":[
+    {
+      "item":"magistuarmory:rusted_heavymace"
+    }
+  ],
+  "results":[
+    {
+      "item":"magistuarmory:steel_heavymace"
+    }
+  ]
+}

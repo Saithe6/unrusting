@@ -1,0 +1,13 @@
+{
+  "type":"create:sandpaper_polishing",
+  "ingredients":[
+    {
+      "item":"magistuarmory:rustedcrusader_boots"
+    }
+  ],
+  "results":[
+    {
+      "item":"magistuarmory:crusader_boots"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type":"create:sandpaper_polishing",
+  "ingredients":[
+    {
+      "item":"magistuarmory:rustedgreathelm"
+    }
+  ],
+  "results":[
+    {
+      "item":"magistuarmory:greathelm"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type":"create:sandpaper_polishing",
+  "ingredients":[
+    {
+      "item":"magistuarmory:rustedhalfarmor_chestplate"
+    }
+  ],
+  "results":[
+    {
+      "item":"magistuarmory:halfarmor_chestplate"
+    }
+  ]
+}
